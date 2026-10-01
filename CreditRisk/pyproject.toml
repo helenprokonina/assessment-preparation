@@ -1,0 +1,17 @@
+[project]
+name = "creditrisk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lime>=0.2.0.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "optuna>=5.0.0",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "shap>=0.52.0",
+    "xgboost>=3.4.1",
+]
